@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="320dp"
+    android:height="180dp"
+    android:viewportWidth="320"
+    android:viewportHeight="180">
+    <!-- Background: Deep Hotel Navy -->
+    <path
+        android:fillColor="#0A1938"
+        android:pathData="M0,0h320v180h-320z" />
+
+    <!-- Subtle warm glow top-right -->
+    <path
+        android:fillColor="#1A2D5A"
+        android:pathData="M160,0h160v120z" />
+
+    <!-- Stylized Comfort C ribbon in golden orange -->
+    <!-- Outer orange curve -->
+    <path
+        android:fillColor="#FF6200"
+        android:pathData="M 75,45 C 95,45 110,55 118,70 C 110,70 98,62 85,68 C 58,78 35,98 36,122 C 37,142 52,156 73,158 C 96,160 116,144 117,128 C 117,123 115,118 112,114 C 108,120 98,126 85,126 C 65,126 55,113 57,99 C 59,85 75,74 95,73 C 106,72 115,76 117,79 C 114,64 100,48 75,45 Z" />
+
+    <!-- Inner gold fold -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M 75,45 C 95,45 110,55 118,70 C 110,78 95,77 82,82 C 72,86 64,95 63,105 C 72,93 86,88 102,88 C 110,88 115,91 118,94 C 118,87 118,77 118,70 C 108,55 92,48 75,45 Z" />
+
+    <!-- Word: Comfort -->
+    <!-- C -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 145,72 C 141,68 136,65 130,65 C 120,65 112,74 112,87 C 112,100 120,109 130,109 C 136,109 141,106 145,102 L 145,96 L 138,96 L 138,91 L 151,91 L 151,105 C 146,111 138,114 130,114 C 116,114 105,102 105,87 C 105,72 116,60 130,60 C 138,60 146,63 151,69 Z" />
+
+    <!-- Small TV / Geelong accent -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M 130,126 h 120 v 3 h -120 z" />
+</vector>

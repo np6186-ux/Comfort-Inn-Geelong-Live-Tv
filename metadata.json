@@ -1,0 +1,6 @@
+{
+  "name": "Comfort Inn Geelong",
+  "description": "Android TV portal for Comfort Inn Geelong featuring guest Wi-Fi, reception hotline, live Geelong weather, and live free-to-air TV channels with M3U playlist management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="256dp"
+    android:height="256dp"
+    android:viewportWidth="256"
+    android:viewportHeight="256">
+    <!-- Clean background card if needed, or transparent vector -->
+    <!-- Stylized Comfort C ribbon in warm orange & amber -->
+    <path
+        android:fillColor="#FF6200"
+        android:pathData="M 120,40 C 150,40 172,55 184,78 C 172,78 154,66 134,75 C 92,90 56,121 58,157 C 60,187 83,208 116,211 C 152,214 183,190 185,166 C 185,158 182,151 177,144 C 171,153 155,162 134,162 C 103,162 87,142 90,121 C 93,100 118,84 149,82 C 166,81 180,87 184,91 C 179,68 158,44 120,40 Z" />
+
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M 120,40 C 150,40 172,55 184,78 C 172,90 149,89 129,97 C 113,103 100,117 99,132 C 113,114 135,106 160,106 C 172,106 180,111 184,115 C 184,104 184,89 184,78 C 169,55 144,44 120,40 Z" />
+</vector>
