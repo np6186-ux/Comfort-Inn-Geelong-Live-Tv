@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Comfort Inn Geelong</string>
+    <string name="hotel_title">Comfort Inn Geelong</string>
+    <string name="hotel_subtitle">Hospitality Portal</string>
+    <string name="watch_live_tv">WATCH LIVE TV</string>
+    <string name="kayo_sports">KAYO SPORTS</string>
+    <string name="live_tv_desc">Stream Melbourne Free-To-Air channels in HD</string>
+    <string name="wifi_network_label">Guest Wi-Fi Network</string>
+    <string name="wifi_password_label">Wi-Fi Password</string>
+    <string name="wifi_scan_hint">Scan QR code with your phone to connect</string>
+    <string name="reception_phone">0452151151</string>
+    <string name="reception_email">reservations@comfortinngeelong.com.au</string>
+</resources>
